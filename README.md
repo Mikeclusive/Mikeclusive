@@ -2,7 +2,7 @@
 I'm Mike Stewart, Director of Public Relations for [Inclusive Reading Technologies, Inc](https://github.com/A11yReadTech). 
 IRT is a non-profit dedicated to the advancement of visual accessibility.
 
-<img src="./img/IRTtextPaths_v03.svg" width="720">
+<img src="https://raw.githubusercontent.com/A11yReadTech/.github/refs/heads/main/img/IRTtextPaths_v03.svg" width="720">
 
 ## [APCA GUIDELINES FOR READABLE DESIGN](https://www.readtech.org/ARC/)
 <!---
