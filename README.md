@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Mikeclusive
-I'm Director of Public Relations for Inclusive Reading Technologies, Inc. A non-profit dedicated to the advancement of visual accessibility.
+I'm Mike Stewart, Director of Public Relations for [Inclusive Reading Technologies, Inc](https://github.com/A11yReadTech). A non-profit dedicated to the advancement of visual accessibility.
 
 
 <!---
